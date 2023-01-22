@@ -1,2 +1,2 @@
-# aihiai
-Some AI experiments
+# ayeai
+aye-ai-yo
